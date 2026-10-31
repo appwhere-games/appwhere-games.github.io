@@ -12,7 +12,7 @@ for(const file of await readdir(path.join(root,'assets'),{withFileTypes:true})) 
   if(file.isFile()&&!file.name.startsWith('.')&&/\.(js|json|svg|png|jpg|jpeg|webp|avif|woff2|css)$/.test(file.name))await copyFile(path.join(root,'assets',file.name),path.join(output,'assets',file.name));
 }
 await copyFile(path.join(root,'data','apps.json'),path.join(output,'data','apps.json'));
-const repository=process.env.GITHUB_REPOSITORY||'Anilseye/appwhere';
+const repository=process.env.GITHUB_REPOSITORY||'appwhere-games/appwhere-games.github.io';
 if(!/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(repository))throw new Error('Invalid repository');
 const config={mode:'github-pages',repository,workflow:'collect.yml',branch:'main'};
 await writeFile(path.join(output,'assets','hosting.js'),`export const hosting=${JSON.stringify(config)};\n`);

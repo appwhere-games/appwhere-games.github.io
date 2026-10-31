@@ -2,7 +2,7 @@
 
 Yeni çıkan mobil oyunları tarihe göre keşfet. App Store ve Google Play, oyun türleri, ülke filtreleri ve üçlü mağaza galerileri.
 
-**Canlı site:** https://anilseye.github.io/appwhere/
+**Canlı site:** https://appwhere-games.github.io/
 
 ## Canlı yayın ve güncelleme
 
