@@ -1,0 +1,10 @@
+node_modules/
+work/
+.DS_Store
+*.log
+data/.collection.lock
+data/*.tmp
+assets/*.tmp
+.env
+.env.*
+.npmrc

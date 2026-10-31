@@ -1,0 +1,13 @@
+{
+  "name": "appwhere",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:pages": "node scripts/build-pages.mjs",
+    "collect": "node scripts/collect.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "dependencies": { "google-play-scraper": "10.1.3" }
+}
