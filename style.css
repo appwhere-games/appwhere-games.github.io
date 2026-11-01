@@ -14,3 +14,4 @@
 
 @media(max-width:760px){.update-games{font-size:11px;padding:10px 12px}}
 @media(prefers-contrast:more){.search,.filter-row select,.app-card,.toolbar{border-color:#536275}}
+.last-store-fetch{margin:-12px 0 24px;color:var(--muted);font-size:12px;line-height:1.7}.last-store-fetch time{color:var(--ink);font-weight:600}@media(max-width:760px){.last-store-fetch{margin:-8px 0 18px;font-size:11px}}

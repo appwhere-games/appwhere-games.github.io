@@ -10,7 +10,7 @@ const shortDate = new Intl.DateTimeFormat('tr-TR', {day:'numeric',month:'long',t
 const weekday = new Intl.DateTimeFormat('tr-TR',{weekday:'long',timeZone:'UTC'});
 const dateObj = day => new Date(`${day}T12:00:00Z`);
 let today = currentDay();
-const formatTime = value => value ? new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Istanbul'}).format(new Date(value)) : 'Henüz başarılı tarama yok';
+const formatTime = (value,includeYear=false) => value && Number.isFinite(Date.parse(value)) ? new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:includeYear?'numeric':undefined,hour:'2-digit',minute:'2-digit',hourCycle:'h23',timeZone:'Europe/Istanbul'}).format(new Date(value)) : 'Henüz başarılı tarama yok';
 const state = {store:'all',limit:24,apps:[],meta:null};
 const fields = ['search','period','genre','country','price','from','to'];
 
@@ -201,6 +201,11 @@ async function load() {
     if(genres.includes(previousGenre)) $('#genre').value=previousGenre;
     $('#stat-total').textContent=number.format(state.apps.length);
     $('#sync-label').textContent=`Son tarama: ${formatTime(data.updatedAt)}`;
+    const lastSuccess=Object.values(data.sources||{}).map(source=>source.lastSuccessAt).filter(value=>value&&Number.isFinite(Date.parse(value))).sort((a,b)=>Date.parse(b)-Date.parse(a))[0];
+    const lastFetch=$('#last-store-fetch');
+    lastFetch.textContent=lastSuccess?`${formatTime(lastSuccess,true)} (TSİ)`:'Henüz başarılı tarama yok';
+    if(lastSuccess)lastFetch.dateTime=lastSuccess;
+    else lastFetch.removeAttribute('datetime');
     const scanned = store => data.sources?.[store]?.scannedCountries?.length || new Set(data.apps.filter(app=>app.store===store).flatMap(app=>app.countries)).size;
     $('#world-coverage').textContent=`Dünya kapsamı · App Store: ${number.format(scanned('ios'))} ülke/bölge · Google Play: ${number.format(scanned('android'))} ülke/bölge tarandı. Google Play taraması ülkeler arasında sırayla ilerler.`;
     const issues=[];
@@ -219,6 +224,7 @@ async function load() {
   } catch(error) {
     console.error('Catalog load failed:',error);
     $('#sync-label').textContent='Veriler alınamadı';
+    if(!state.meta)$('#last-store-fetch').textContent='Veri alım zamanı öğrenilemedi';
     $('#results').replaceChildren(emptyState('Akışa şu an ulaşılamıyor.','Bağlantını kontrol edip yeniden deneyebilirsin.',true));
     $('#results').setAttribute('aria-busy','false');
   }
