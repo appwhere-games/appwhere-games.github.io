@@ -1,5 +1,5 @@
 {
-  "androidCursor": 92,
+  "androidCursor": 100,
   "androidCountries": {
     "us": "2026-11-16T02:00:18.273Z",
     "tr": "2026-11-16T02:00:18.273Z",
@@ -93,14 +93,14 @@
     "fm": "2026-11-19T21:28:31.642Z",
     "fo": "2026-11-19T21:28:31.642Z",
     "ga": "2026-11-19T21:28:31.642Z",
-    "gd": "2026-11-10T17:46:29.100Z",
-    "ge": "2026-11-10T17:46:29.100Z",
-    "gf": "2026-11-10T23:16:11.750Z",
-    "gg": "2026-11-10T23:16:11.750Z",
-    "gh": "2026-11-10T23:16:11.750Z",
-    "gi": "2026-11-10T23:16:11.750Z",
-    "gl": "2026-11-10T23:16:11.750Z",
-    "gm": "2026-11-10T23:16:11.750Z",
+    "gd": "2026-11-20T03:08:53.447Z",
+    "ge": "2026-11-20T03:08:53.447Z",
+    "gf": "2026-11-20T03:08:53.447Z",
+    "gg": "2026-11-20T03:08:53.447Z",
+    "gh": "2026-11-20T03:08:53.447Z",
+    "gi": "2026-11-20T03:08:53.447Z",
+    "gl": "2026-11-20T03:08:53.447Z",
+    "gm": "2026-11-20T03:08:53.447Z",
     "gn": "2026-11-10T23:16:11.750Z",
     "gp": "2026-11-10T23:16:11.750Z",
     "gq": "2026-11-11T02:49:35.895Z",
@@ -251,806 +251,6 @@
     "zw": "2026-11-16T02:00:18.273Z"
   },
   "pending": [
-    {
-      "appId": "com.gameloft.android.ANMP.GloftDOHM",
-      "country": "dk",
-      "key": "com.gameloft.android.ANMP.GloftDOHM:dk"
-    },
-    {
-      "appId": "rail.road.tycoon",
-      "country": "dk",
-      "key": "rail.road.tycoon:dk"
-    },
-    {
-      "appId": "com.ndemiccreations.rebelinc",
-      "country": "dk",
-      "key": "com.ndemiccreations.rebelinc:dk"
-    },
-    {
-      "appId": "com.playspare.supermarket.store.simulator",
-      "country": "dk",
-      "key": "com.playspare.supermarket.store.simulator:dk"
-    },
-    {
-      "appId": "com.vizorapps.klondike",
-      "country": "dk",
-      "key": "com.vizorapps.klondike:dk"
-    },
-    {
-      "appId": "com.dts.freefireth",
-      "country": "dk",
-      "key": "com.dts.freefireth:dk"
-    },
-    {
-      "appId": "com.shimmergames.tenants.gp",
-      "country": "dk",
-      "key": "com.shimmergames.tenants.gp:dk"
-    },
-    {
-      "appId": "com.oxiwyle.modernage2",
-      "country": "dk",
-      "key": "com.oxiwyle.modernage2:dk"
-    },
-    {
-      "appId": "com.aim.racing",
-      "country": "dk",
-      "key": "com.aim.racing:dk"
-    },
-    {
-      "appId": "com.sinyee.babybus.gameworld.design.home.friends.fun.life.story",
-      "country": "dk",
-      "key": "com.sinyee.babybus.gameworld.design.home.friends.fun.life.story:dk"
-    },
-    {
-      "appId": "com.vira.sim.game",
-      "country": "dk",
-      "key": "com.vira.sim.game:dk"
-    },
-    {
-      "appId": "com.mkarpenko.worldbox",
-      "country": "dk",
-      "key": "com.mkarpenko.worldbox:dk"
-    },
-    {
-      "appId": "com.crowdstar.covetHome",
-      "country": "dk",
-      "key": "com.crowdstar.covetHome:dk"
-    },
-    {
-      "appId": "com.supercell.clashofclans",
-      "country": "dm",
-      "key": "com.supercell.clashofclans:dm"
-    },
-    {
-      "appId": "com.geargames.aow",
-      "country": "dm",
-      "key": "com.geargames.aow:dm"
-    },
-    {
-      "appId": "com.igg.android.lordsmobile",
-      "country": "dm",
-      "key": "com.igg.android.lordsmobile:dm"
-    },
-    {
-      "appId": "com.napoleon.strategy.war.games",
-      "country": "dm",
-      "key": "com.napoleon.strategy.war.games:dm"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftGHHM",
-      "country": "dm",
-      "key": "com.gameloft.android.ANMP.GloftGHHM:dm"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftW2HM",
-      "country": "dm",
-      "key": "com.gameloft.android.ANMP.GloftW2HM:dm"
-    },
-    {
-      "appId": "com.rome.caesar.war.strategy.conqueror.games",
-      "country": "dm",
-      "key": "com.rome.caesar.war.strategy.conqueror.games:dm"
-    },
-    {
-      "appId": "com.supercell.clashroyale",
-      "country": "dm",
-      "key": "com.supercell.clashroyale:dm"
-    },
-    {
-      "appId": "com.geargames.warlegends.rts.strategy.game",
-      "country": "dm",
-      "key": "com.geargames.warlegends.rts.strategy.game:dm"
-    },
-    {
-      "appId": "com.bytro.supremacy1914",
-      "country": "dm",
-      "key": "com.bytro.supremacy1914:dm"
-    },
-    {
-      "appId": "com.mobilechess.gp",
-      "country": "dm",
-      "key": "com.mobilechess.gp:dm"
-    },
-    {
-      "appId": "com.mobile.legends",
-      "country": "dm",
-      "key": "com.mobile.legends:dm"
-    },
-    {
-      "appId": "com.studion.mergearena",
-      "country": "dm",
-      "key": "com.studion.mergearena:dm"
-    },
-    {
-      "appId": "com.easytech.wc4.android",
-      "country": "dm",
-      "key": "com.easytech.wc4.android:dm"
-    },
-    {
-      "appId": "com.riotgames.league.wildrift",
-      "country": "dm",
-      "key": "com.riotgames.league.wildrift:dm"
-    },
-    {
-      "appId": "com.totalbattle",
-      "country": "dm",
-      "key": "com.totalbattle:dm"
-    },
-    {
-      "appId": "com.lilithgame.roc.gp",
-      "country": "dm",
-      "key": "com.lilithgame.roc.gp:dm"
-    },
-    {
-      "appId": "com.supercell.boombeach",
-      "country": "dm",
-      "key": "com.supercell.boombeach:dm"
-    },
-    {
-      "appId": "air.com.midjiwan.polytopia",
-      "country": "dm",
-      "key": "air.com.midjiwan.polytopia:dm"
-    },
-    {
-      "appId": "com.igg.android.vikingriseglobal",
-      "country": "dm",
-      "key": "com.igg.android.vikingriseglobal:dm"
-    },
-    {
-      "appId": "com.worldwar2.strategygames.ww2.sd",
-      "country": "dm",
-      "key": "com.worldwar2.strategygames.ww2.sd:dm"
-    },
-    {
-      "appId": "com.worldwar2.strategygames.tacticsbattle",
-      "country": "dm",
-      "key": "com.worldwar2.strategygames.tacticsbattle:dm"
-    },
-    {
-      "appId": "com.run.tower.defense",
-      "country": "dm",
-      "key": "com.run.tower.defense:dm"
-    },
-    {
-      "appId": "com.proximabeta.aoemobile",
-      "country": "dm",
-      "key": "com.proximabeta.aoemobile:dm"
-    },
-    {
-      "appId": "games.vaveda.militaryoverturn",
-      "country": "dm",
-      "key": "games.vaveda.militaryoverturn:dm"
-    },
-    {
-      "appId": "com.supercell.brawlstars",
-      "country": "dm",
-      "key": "com.supercell.brawlstars:dm"
-    },
-    {
-      "appId": "com.fun.lastwar.gp",
-      "country": "dm",
-      "key": "com.fun.lastwar.gp:dm"
-    },
-    {
-      "appId": "com.topwar.gp",
-      "country": "dm",
-      "key": "com.topwar.gp:dm"
-    },
-    {
-      "appId": "com.chess",
-      "country": "dm",
-      "key": "com.chess:dm"
-    },
-    {
-      "appId": "com.s01.global",
-      "country": "dm",
-      "key": "com.s01.global:dm"
-    },
-    {
-      "appId": "com.dts.freefireth",
-      "country": "do",
-      "key": "com.dts.freefireth:do"
-    },
-    {
-      "appId": "com.epicgames.fortnite",
-      "country": "do",
-      "key": "com.epicgames.fortnite:do"
-    },
-    {
-      "appId": "com.mobile.legends",
-      "country": "do",
-      "key": "com.mobile.legends:do"
-    },
-    {
-      "appId": "com.dts.freefiremax",
-      "country": "do",
-      "key": "com.dts.freefiremax:do"
-    },
-    {
-      "appId": "com.generagames.resistance",
-      "country": "do",
-      "key": "com.generagames.resistance:do"
-    },
-    {
-      "appId": "com.tencent.ig",
-      "country": "do",
-      "key": "com.tencent.ig:do"
-    },
-    {
-      "appId": "com.roblox.client",
-      "country": "do",
-      "key": "com.roblox.client:do"
-    },
-    {
-      "appId": "com.activision.callofduty.shooter",
-      "country": "do",
-      "key": "com.activision.callofduty.shooter:do"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftM5HM",
-      "country": "do",
-      "key": "com.gameloft.android.ANMP.GloftM5HM:do"
-    },
-    {
-      "appId": "com.garena.game.df",
-      "country": "do",
-      "key": "com.garena.game.df:do"
-    },
-    {
-      "appId": "com.nekki.shadowfight3",
-      "country": "do",
-      "key": "com.nekki.shadowfight3:do"
-    },
-    {
-      "appId": "com.nekki.shadowfightarena",
-      "country": "do",
-      "key": "com.nekki.shadowfightarena:do"
-    },
-    {
-      "appId": "net.wargaming.wot.blitz",
-      "country": "do",
-      "key": "net.wargaming.wot.blitz:do"
-    },
-    {
-      "appId": "com.pubg.newstate",
-      "country": "do",
-      "key": "com.pubg.newstate:do"
-    },
-    {
-      "appId": "com.firsttouchgames.dls7",
-      "country": "do",
-      "key": "com.firsttouchgames.dls7:do"
-    },
-    {
-      "appId": "com.AlfaBravo.CombatMaster",
-      "country": "do",
-      "key": "com.AlfaBravo.CombatMaster:do"
-    },
-    {
-      "appId": "com.supercell.brawlstars",
-      "country": "do",
-      "key": "com.supercell.brawlstars:do"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftFWHM",
-      "country": "do",
-      "key": "com.gameloft.android.ANMP.GloftFWHM:do"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.GloftOLHM",
-      "country": "do",
-      "key": "com.gameloft.android.ANMP.GloftOLHM:do"
-    },
-    {
-      "appId": "com.kitkagames.fallbuddies",
-      "country": "do",
-      "key": "com.kitkagames.fallbuddies:do"
-    },
-    {
-      "appId": "com.supercell.clashofclans",
-      "country": "do",
-      "key": "com.supercell.clashofclans:do"
-    },
-    {
-      "appId": "com.nianticlabs.pokemongo",
-      "country": "do",
-      "key": "com.nianticlabs.pokemongo:do"
-    },
-    {
-      "appId": "com.edkongames.mobs",
-      "country": "do",
-      "key": "com.edkongames.mobs:do"
-    },
-    {
-      "appId": "com.miHoYo.GenshinImpact",
-      "country": "do",
-      "key": "com.miHoYo.GenshinImpact:do"
-    },
-    {
-      "appId": "com.axlebolt.standoff2",
-      "country": "do",
-      "key": "com.axlebolt.standoff2:do"
-    },
-    {
-      "appId": "com.imangi.templerun2",
-      "country": "do",
-      "key": "com.imangi.templerun2:do"
-    },
-    {
-      "appId": "com.netease.newspike",
-      "country": "do",
-      "key": "com.netease.newspike:do"
-    },
-    {
-      "appId": "com.gamedevltd.wwh",
-      "country": "do",
-      "key": "com.gamedevltd.wwh:do"
-    },
-    {
-      "appId": "com.madfingergames.deadtrigger2",
-      "country": "do",
-      "key": "com.madfingergames.deadtrigger2:do"
-    },
-    {
-      "appId": "com.supercell.clashroyale",
-      "country": "do",
-      "key": "com.supercell.clashroyale:do"
-    },
-    {
-      "appId": "com.userjoy.fsm",
-      "country": "cw",
-      "key": "com.userjoy.fsm:cw"
-    },
-    {
-      "appId": "com.chuanglian.sgfml",
-      "country": "cw",
-      "key": "com.chuanglian.sgfml:cw"
-    },
-    {
-      "appId": "com.highbrow.games.tki",
-      "country": "cw",
-      "key": "com.highbrow.games.tki:cw"
-    },
-    {
-      "appId": "com.lufylegend.sgj",
-      "country": "cw",
-      "key": "com.lufylegend.sgj:cw"
-    },
-    {
-      "appId": "com.moyu.com.moyu.sanguorensheng_taiwan",
-      "country": "cw",
-      "key": "com.moyu.com.moyu.sanguorensheng_taiwan:cw"
-    },
-    {
-      "appId": "com.easybrain.word.puzzle.game",
-      "country": "cw",
-      "key": "com.easybrain.word.puzzle.game:cw"
-    },
-    {
-      "appId": "com.aaaudi.wordmaker",
-      "country": "cw",
-      "key": "com.aaaudi.wordmaker:cw"
-    },
-    {
-      "appId": "com.TinyBit.GameOfWords",
-      "country": "cw",
-      "key": "com.TinyBit.GameOfWords:cw"
-    },
-    {
-      "appId": "com.zynga.words3",
-      "country": "cw",
-      "key": "com.zynga.words3:cw"
-    },
-    {
-      "appId": "com.games.makewords2",
-      "country": "cw",
-      "key": "com.games.makewords2:cw"
-    },
-    {
-      "appId": "com.warlord3k",
-      "country": "cw",
-      "key": "com.warlord3k:cw"
-    },
-    {
-      "appId": "com.jedigames.p20.googleplay",
-      "country": "cw",
-      "key": "com.jedigames.p20.googleplay:cw"
-    },
-    {
-      "appId": "com.rastargames.zdwjsea",
-      "country": "cw",
-      "key": "com.rastargames.zdwjsea:cw"
-    },
-    {
-      "appId": "com.welove.slg",
-      "country": "cw",
-      "key": "com.welove.slg:cw"
-    },
-    {
-      "appId": "net.royfactory.threekingdomstactics",
-      "country": "cw",
-      "key": "net.royfactory.threekingdomstactics:cw"
-    },
-    {
-      "appId": "com.gamingo.happytrays",
-      "country": "cw",
-      "key": "com.gamingo.happytrays:cw"
-    },
-    {
-      "appId": "com.loop.sushi.bar.aos",
-      "country": "cw",
-      "key": "com.loop.sushi.bar.aos:cw"
-    },
-    {
-      "appId": "sushi.sort.food.packing.jam",
-      "country": "cw",
-      "key": "sushi.sort.food.packing.jam:cw"
-    },
-    {
-      "appId": "org.smapps.sushi",
-      "country": "cw",
-      "key": "org.smapps.sushi:cw"
-    },
-    {
-      "appId": "io.halfbite.sushisort",
-      "country": "cw",
-      "key": "io.halfbite.sushisort:cw"
-    },
-    {
-      "appId": "com.trymygames.snake.arena",
-      "country": "cw",
-      "key": "com.trymygames.snake.arena:cw"
-    },
-    {
-      "appId": "com.worm.royale.slither.io.game",
-      "country": "cw",
-      "key": "com.worm.royale.slither.io.game:cw"
-    },
-    {
-      "appId": "com.paxiegames.snakepuzzle",
-      "country": "cw",
-      "key": "com.paxiegames.snakepuzzle:cw"
-    },
-    {
-      "appId": "com.margalagames.slitherescape",
-      "country": "cw",
-      "key": "com.margalagames.slitherescape:cw"
-    },
-    {
-      "appId": "io.arslan.snakeroyale",
-      "country": "cw",
-      "key": "io.arslan.snakeroyale:cw"
-    },
-    {
-      "appId": "co.gearsnag.app",
-      "country": "cw",
-      "key": "co.gearsnag.app:cw"
-    },
-    {
-      "appId": "com.trainerize.gearsgains",
-      "country": "cw",
-      "key": "com.trainerize.gearsgains:cw"
-    },
-    {
-      "appId": "com.jankerekes.puzzlegear",
-      "country": "cw",
-      "key": "com.jankerekes.puzzlegear:cw"
-    },
-    {
-      "appId": "com.geargo.app",
-      "country": "cw",
-      "key": "com.geargo.app:cw"
-    },
-    {
-      "appId": "com.trainerize.charlesglass",
-      "country": "cw",
-      "key": "com.trainerize.charlesglass:cw"
-    },
-    {
-      "appId": "com.leap.hiddentales",
-      "country": "cw",
-      "key": "com.leap.hiddentales:cw"
-    },
-    {
-      "appId": "com.mytona.rh",
-      "country": "cw",
-      "key": "com.mytona.rh:cw"
-    },
-    {
-      "appId": "net.myarx.placesbeen",
-      "country": "cw",
-      "key": "net.myarx.placesbeen:cw"
-    },
-    {
-      "appId": "com.ahnlee.jidoapp",
-      "country": "cw",
-      "key": "com.ahnlee.jidoapp:cw"
-    },
-    {
-      "appId": "com.pintraveler.pintraveler",
-      "country": "cw",
-      "key": "com.pintraveler.pintraveler:cw"
-    },
-    {
-      "appId": "com.hypgames.ultimategolf",
-      "country": "cw",
-      "key": "com.hypgames.ultimategolf:cw"
-    },
-    {
-      "appId": "com.concretesoftware.golf",
-      "country": "cw",
-      "key": "com.concretesoftware.golf:cw"
-    },
-    {
-      "appId": "games.onebutton.golfbattle",
-      "country": "cw",
-      "key": "games.onebutton.golfbattle:cw"
-    },
-    {
-      "appId": "com.sports.real.golf.rival.online",
-      "country": "cw",
-      "key": "com.sports.real.golf.rival.online:cw"
-    },
-    {
-      "appId": "com.fitforgolf.second",
-      "country": "cw",
-      "key": "com.fitforgolf.second:cw"
-    },
-    {
-      "appId": "com.fulcra.thriftai",
-      "country": "cw",
-      "key": "com.fulcra.thriftai:cw"
-    },
-    {
-      "appId": "com.solian.ThriftShopEmpire",
-      "country": "cw",
-      "key": "com.solian.ThriftShopEmpire:cw"
-    },
-    {
-      "appId": "com.ebay.mobile",
-      "country": "cw",
-      "key": "com.ebay.mobile:cw"
-    },
-    {
-      "appId": "com.booking",
-      "country": "cw",
-      "key": "com.booking:cw"
-    },
-    {
-      "appId": "com.etsy.android",
-      "country": "cw",
-      "key": "com.etsy.android:cw"
-    },
-    {
-      "appId": "mobi.redstonegames.crossword.en",
-      "country": "cw",
-      "key": "mobi.redstonegames.crossword.en:cw"
-    },
-    {
-      "appId": "in.playsimple.tripcross",
-      "country": "cw",
-      "key": "in.playsimple.tripcross:cw"
-    },
-    {
-      "appId": "com.easybrain.crossword.puzzles",
-      "country": "cw",
-      "key": "com.easybrain.crossword.puzzles:cw"
-    },
-    {
-      "appId": "in.daily_puzzle.crossword",
-      "country": "cw",
-      "key": "in.daily_puzzle.crossword:cw"
-    },
-    {
-      "appId": "in.playsimple.crossword.go",
-      "country": "cw",
-      "key": "in.playsimple.crossword.go:cw"
-    },
-    {
-      "appId": "com.modoobada.gpsmaps",
-      "country": "cw",
-      "key": "com.modoobada.gpsmaps:cw"
-    },
-    {
-      "appId": "com.gostreetview.camera",
-      "country": "cw",
-      "key": "com.gostreetview.camera:cw"
-    },
-    {
-      "appId": "com.jincoastudio.tiltmaze",
-      "country": "cw",
-      "key": "com.jincoastudio.tiltmaze:cw"
-    },
-    {
-      "appId": "app.goatlas.mobile",
-      "country": "cw",
-      "key": "app.goatlas.mobile:cw"
-    },
-    {
-      "appId": "com.dobbycanvas.verdandi",
-      "country": "cw",
-      "key": "com.dobbycanvas.verdandi:cw"
-    },
-    {
-      "appId": "com.luan.quizia",
-      "country": "cw",
-      "key": "com.luan.quizia:cw"
-    },
-    {
-      "appId": "com.digigene.generalknowledgequiz.general_knowledge_quiz",
-      "country": "cw",
-      "key": "com.digigene.generalknowledgequiz.general_knowledge_quiz:cw"
-    },
-    {
-      "appId": "com.Hydron.OneQuiz",
-      "country": "cw",
-      "key": "com.Hydron.OneQuiz:cw"
-    },
-    {
-      "appId": "com.bqmstudio.quizgeneral.quiz_general",
-      "country": "cw",
-      "key": "com.bqmstudio.quizgeneral.quiz_general:cw"
-    },
-    {
-      "appId": "app.quizmi",
-      "country": "cw",
-      "key": "app.quizmi:cw"
-    },
-    {
-      "appId": "com.blizzard.diablo.immortal",
-      "country": "dz",
-      "key": "com.blizzard.diablo.immortal:dz"
-    },
-    {
-      "appId": "com.iugome.lilknights",
-      "country": "dz",
-      "key": "com.iugome.lilknights:dz"
-    },
-    {
-      "appId": "com.asobimo.toramonline",
-      "country": "dz",
-      "key": "com.asobimo.toramonline:dz"
-    },
-    {
-      "appId": "com.fruitshake.fairyrpg",
-      "country": "dz",
-      "key": "com.fruitshake.fairyrpg:dz"
-    },
-    {
-      "appId": "com.miHoYo.GenshinImpact",
-      "country": "dz",
-      "key": "com.miHoYo.GenshinImpact:dz"
-    },
-    {
-      "appId": "com.netmarble.tog",
-      "country": "dz",
-      "key": "com.netmarble.tog:dz"
-    },
-    {
-      "appId": "com.gamesture.questland",
-      "country": "dz",
-      "key": "com.gamesture.questland:dz"
-    },
-    {
-      "appId": "com.goplaytoday.guildofheroes",
-      "country": "dz",
-      "key": "com.goplaytoday.guildofheroes:dz"
-    },
-    {
-      "appId": "com.neowizgames.game.browndust2",
-      "country": "dz",
-      "key": "com.neowizgames.game.browndust2:dz"
-    },
-    {
-      "appId": "com.onethumbmobile.celticheroes",
-      "country": "dz",
-      "key": "com.onethumbmobile.celticheroes:dz"
-    },
-    {
-      "appId": "com.gryphline.endfield.gp",
-      "country": "dz",
-      "key": "com.gryphline.endfield.gp:dz"
-    },
-    {
-      "appId": "com.gameloft.android.ANMP.Gloft5DHM",
-      "country": "dz",
-      "key": "com.gameloft.android.ANMP.Gloft5DHM:dz"
-    },
-    {
-      "appId": "com.pazugames.avatarworld",
-      "country": "dz",
-      "key": "com.pazugames.avatarworld:dz"
-    },
-    {
-      "appId": "com.com2usholdings.starsailors.android.google.global.normal",
-      "country": "dz",
-      "key": "com.com2usholdings.starsailors.android.google.global.normal:dz"
-    },
-    {
-      "appId": "com.alicegames.idle.rpg.battler",
-      "country": "dz",
-      "key": "com.alicegames.idle.rpg.battler:dz"
-    },
-    {
-      "appId": "com.makingfun.mageandminions",
-      "country": "dz",
-      "key": "com.makingfun.mageandminions:dz"
-    },
-    {
-      "appId": "com.artifexmundi.balefire",
-      "country": "dz",
-      "key": "com.artifexmundi.balefire:dz"
-    },
-    {
-      "appId": "com.plarium.raidlegends",
-      "country": "dz",
-      "key": "com.plarium.raidlegends:dz"
-    },
-    {
-      "appId": "com.albiononline",
-      "country": "dz",
-      "key": "com.albiononline:dz"
-    },
-    {
-      "appId": "com.kurogame.wutheringwaves.global",
-      "country": "dz",
-      "key": "com.kurogame.wutheringwaves.global:dz"
-    },
-    {
-      "appId": "com.farlightgames.igame.gp",
-      "country": "dz",
-      "key": "com.farlightgames.igame.gp:dz"
-    },
-    {
-      "appId": "com.nexters.herowars",
-      "country": "dz",
-      "key": "com.nexters.herowars:dz"
-    },
-    {
-      "appId": "com.netmarble.sololv",
-      "country": "dz",
-      "key": "com.netmarble.sololv:dz"
-    },
-    {
-      "appId": "com.aldagames.polygonfantasy",
-      "country": "dz",
-      "key": "com.aldagames.polygonfantasy:dz"
-    },
-    {
-      "appId": "com.swiftappskom.thewolfrpg",
-      "country": "dz",
-      "key": "com.swiftappskom.thewolfrpg:dz"
-    },
-    {
-      "appId": "com.zigzagame.evertale",
-      "country": "dz",
-      "key": "com.zigzagame.evertale:dz"
-    },
-    {
-      "appId": "com.pwrd.pwm",
-      "country": "dz",
-      "key": "com.pwrd.pwm:dz"
-    },
     {
       "appId": "com.hottagames.nte",
       "country": "dz",
@@ -47295,6 +46495,1391 @@
       "appId": "com.byv.TD.AlienTowerDefense",
       "country": "es",
       "key": "com.byv.TD.AlienTowerDefense:es"
+    },
+    {
+      "appId": "com.easybrain.jigsaw.puzzles",
+      "country": "gd",
+      "key": "com.easybrain.jigsaw.puzzles:gd"
+    },
+    {
+      "appId": "jigsaw.puzzle.game.banana",
+      "country": "gd",
+      "key": "jigsaw.puzzle.game.banana:gd"
+    },
+    {
+      "appId": "linkdesks.tile.match.fun",
+      "country": "gd",
+      "key": "linkdesks.tile.match.fun:gd"
+    },
+    {
+      "appId": "jigsaw.puzzle.free.games",
+      "country": "gd",
+      "key": "jigsaw.puzzle.free.games:gd"
+    },
+    {
+      "appId": "com.block.juggle",
+      "country": "gd",
+      "key": "com.block.juggle:gd"
+    },
+    {
+      "appId": "com.fanatee.keep",
+      "country": "gd",
+      "key": "com.fanatee.keep:gd"
+    },
+    {
+      "appId": "com.unicostudio.braintest",
+      "country": "gd",
+      "key": "com.unicostudio.braintest:gd"
+    },
+    {
+      "appId": "com.fs.block",
+      "country": "gd",
+      "key": "com.fs.block:gd"
+    },
+    {
+      "appId": "com.bandagames.mpuzzle.gp",
+      "country": "gd",
+      "key": "com.bandagames.mpuzzle.gp:gd"
+    },
+    {
+      "appId": "linkdesks.jigsaw.family",
+      "country": "gd",
+      "key": "linkdesks.jigsaw.family:gd"
+    },
+    {
+      "appId": "com.dreamgames.royalkingdom",
+      "country": "gd",
+      "key": "com.dreamgames.royalkingdom:gd"
+    },
+    {
+      "appId": "in.playsimple.jigsaw_puzzle",
+      "country": "gd",
+      "key": "in.playsimple.jigsaw_puzzle:gd"
+    },
+    {
+      "appId": "com.dreamgames.royalmatch",
+      "country": "gd",
+      "key": "com.dreamgames.royalmatch:gd"
+    },
+    {
+      "appId": "newspaper.games",
+      "country": "gd",
+      "key": "newspaper.games:gd"
+    },
+    {
+      "appId": "com.grandgames.magicsort",
+      "country": "gd",
+      "key": "com.grandgames.magicsort:gd"
+    },
+    {
+      "appId": "com.fugo.wow",
+      "country": "gd",
+      "key": "com.fugo.wow:gd"
+    },
+    {
+      "appId": "com.oakever.tiletrip",
+      "country": "gd",
+      "key": "com.oakever.tiletrip:gd"
+    },
+    {
+      "appId": "com.easybrain.arrow.puzzle.game",
+      "country": "gd",
+      "key": "com.easybrain.arrow.puzzle.game:gd"
+    },
+    {
+      "appId": "com.rvappstudios.jigsaw.puzzles",
+      "country": "gd",
+      "key": "com.rvappstudios.jigsaw.puzzles:gd"
+    },
+    {
+      "appId": "com.gamovation.tileclub",
+      "country": "gd",
+      "key": "com.gamovation.tileclub:gd"
+    },
+    {
+      "appId": "com.easybrain.sudoku.android",
+      "country": "gd",
+      "key": "com.easybrain.sudoku.android:gd"
+    },
+    {
+      "appId": "com.playrix.gardenscapes",
+      "country": "gd",
+      "key": "com.playrix.gardenscapes:gd"
+    },
+    {
+      "appId": "com.BlackGames.MathRiddles",
+      "country": "gd",
+      "key": "com.BlackGames.MathRiddles:gd"
+    },
+    {
+      "appId": "com.oakever.meowdoku",
+      "country": "gd",
+      "key": "com.oakever.meowdoku:gd"
+    },
+    {
+      "appId": "com.oakever.arrows",
+      "country": "gd",
+      "key": "com.oakever.arrows:gd"
+    },
+    {
+      "appId": "com.easybrain.art.puzzle",
+      "country": "gd",
+      "key": "com.easybrain.art.puzzle:gd"
+    },
+    {
+      "appId": "com.peoplefun.wordcross",
+      "country": "gd",
+      "key": "com.peoplefun.wordcross:gd"
+    },
+    {
+      "appId": "jp.co.goodroid.hyper.puzzle.arrows3dcubepuzzle",
+      "country": "gd",
+      "key": "jp.co.goodroid.hyper.puzzle.arrows3dcubepuzzle:gd"
+    },
+    {
+      "appId": "com.tile.home.match.puzzle.game",
+      "country": "gd",
+      "key": "com.tile.home.match.puzzle.game:gd"
+    },
+    {
+      "appId": "net.peakgames.toonblast",
+      "country": "gd",
+      "key": "net.peakgames.toonblast:gd"
+    },
+    {
+      "appId": "com.king.candycrushsaga",
+      "country": "ge",
+      "key": "com.king.candycrushsaga:ge"
+    },
+    {
+      "appId": "com.playrix.gardenscapes",
+      "country": "ge",
+      "key": "com.playrix.gardenscapes:ge"
+    },
+    {
+      "appId": "com.matteljv.uno",
+      "country": "ge",
+      "key": "com.matteljv.uno:ge"
+    },
+    {
+      "appId": "com.playrix.township",
+      "country": "ge",
+      "key": "com.playrix.township:ge"
+    },
+    {
+      "appId": "com.king.farmheroessaga",
+      "country": "ge",
+      "key": "com.king.farmheroessaga:ge"
+    },
+    {
+      "appId": "com.ludo.king",
+      "country": "ge",
+      "key": "com.ludo.king:ge"
+    },
+    {
+      "appId": "com.yalla.yallagames",
+      "country": "ge",
+      "key": "com.yalla.yallagames:ge"
+    },
+    {
+      "appId": "io.randomco.travel",
+      "country": "ge",
+      "key": "io.randomco.travel:ge"
+    },
+    {
+      "appId": "com.supercell.clashofclans",
+      "country": "ge",
+      "key": "com.supercell.clashofclans:ge"
+    },
+    {
+      "appId": "io.voodoo.holeio",
+      "country": "ge",
+      "key": "io.voodoo.holeio:ge"
+    },
+    {
+      "appId": "com.block.juggle",
+      "country": "ge",
+      "key": "com.block.juggle:ge"
+    },
+    {
+      "appId": "com.playrix.homescapes",
+      "country": "ge",
+      "key": "com.playrix.homescapes:ge"
+    },
+    {
+      "appId": "com.tocaboca.tocalifeworld",
+      "country": "ge",
+      "key": "com.tocaboca.tocalifeworld:ge"
+    },
+    {
+      "appId": "com.chess",
+      "country": "ge",
+      "key": "com.chess:ge"
+    },
+    {
+      "appId": "com.miniclip.eightballpool",
+      "country": "ge",
+      "key": "com.miniclip.eightballpool:ge"
+    },
+    {
+      "appId": "com.playrix.fishdomdd.gplay",
+      "country": "ge",
+      "key": "com.playrix.fishdomdd.gplay:ge"
+    },
+    {
+      "appId": "com.rovio.baba",
+      "country": "ge",
+      "key": "com.rovio.baba:ge"
+    },
+    {
+      "appId": "com.pazugames.avatarworld",
+      "country": "ge",
+      "key": "com.pazugames.avatarworld:ge"
+    },
+    {
+      "appId": "com.supercell.hayday",
+      "country": "ge",
+      "key": "com.supercell.hayday:ge"
+    },
+    {
+      "appId": "net.peakgames.toonblast",
+      "country": "ge",
+      "key": "net.peakgames.toonblast:ge"
+    },
+    {
+      "appId": "com.joycastle.mergematch",
+      "country": "ge",
+      "key": "com.joycastle.mergematch:ge"
+    },
+    {
+      "appId": "com.kiloo.subwaysurf",
+      "country": "ge",
+      "key": "com.kiloo.subwaysurf:ge"
+    },
+    {
+      "appId": "com.bigstarkids.wordtravel",
+      "country": "ge",
+      "key": "com.bigstarkids.wordtravel:ge"
+    },
+    {
+      "appId": "com.oakever.tiletrip",
+      "country": "ge",
+      "key": "com.oakever.tiletrip:ge"
+    },
+    {
+      "appId": "com.miniclip.carrom",
+      "country": "ge",
+      "key": "com.miniclip.carrom:ge"
+    },
+    {
+      "appId": "com.fugo.wow",
+      "country": "ge",
+      "key": "com.fugo.wow:ge"
+    },
+    {
+      "appId": "com.roblox.client",
+      "country": "gf",
+      "key": "com.roblox.client:gf"
+    },
+    {
+      "appId": "com.ea.games.simsfreeplay_row",
+      "country": "gf",
+      "key": "com.ea.games.simsfreeplay_row:gf"
+    },
+    {
+      "appId": "com.tensquaregames.letsfish2",
+      "country": "gf",
+      "key": "com.tensquaregames.letsfish2:gf"
+    },
+    {
+      "appId": "com.ea.game.simcitymobile_row",
+      "country": "gf",
+      "key": "com.ea.game.simcitymobile_row:gf"
+    },
+    {
+      "appId": "com.playrix.township",
+      "country": "gf",
+      "key": "com.playrix.township:gf"
+    },
+    {
+      "appId": "com.fungames.blockcraft",
+      "country": "gf",
+      "key": "com.fungames.blockcraft:gf"
+    },
+    {
+      "appId": "com.tocaboca.tocalifeworld",
+      "country": "gf",
+      "key": "com.tocaboca.tocalifeworld:gf"
+    },
+    {
+      "appId": "com.sparklingsociety.cityisland5",
+      "country": "gf",
+      "key": "com.sparklingsociety.cityisland5:gf"
+    },
+    {
+      "appId": "com.lockwoodpublishing.avakinlife",
+      "country": "gf",
+      "key": "com.lockwoodpublishing.avakinlife:gf"
+    },
+    {
+      "appId": "com.trophygames.truckmanager",
+      "country": "gf",
+      "key": "com.trophygames.truckmanager:gf"
+    },
+    {
+      "appId": "com.firsttouchgames.dls7",
+      "country": "gf",
+      "key": "com.firsttouchgames.dls7:gf"
+    },
+    {
+      "appId": "com.supercell.hayday",
+      "country": "gf",
+      "key": "com.supercell.hayday:gf"
+    },
+    {
+      "appId": "es.socialpoint.DragonCity",
+      "country": "gf",
+      "key": "es.socialpoint.DragonCity:gf"
+    },
+    {
+      "appId": "com.supercell.clashofclans",
+      "country": "gf",
+      "key": "com.supercell.clashofclans:gf"
+    },
+    {
+      "appId": "com.heatherglade.idleguy",
+      "country": "gf",
+      "key": "com.heatherglade.idleguy:gf"
+    },
+    {
+      "appId": "com.pazugames.avatarworld",
+      "country": "gf",
+      "key": "com.pazugames.avatarworld:gf"
+    },
+    {
+      "appId": "com.mojang.minecraftpe",
+      "country": "gf",
+      "key": "com.mojang.minecraftpe:gf"
+    },
+    {
+      "appId": "com.candywriter.bitlife",
+      "country": "gf",
+      "key": "com.candywriter.bitlife:gf"
+    },
+    {
+      "appId": "com.fluffyfairygames.idleminertycoon",
+      "country": "gf",
+      "key": "com.fluffyfairygames.idleminertycoon:gf"
+    },
+    {
+      "appId": "com.playspare.supermarket.store.simulator",
+      "country": "gf",
+      "key": "com.playspare.supermarket.store.simulator:gf"
+    },
+    {
+      "appId": "com.zynga.FarmVille2CountryEscape",
+      "country": "gf",
+      "key": "com.zynga.FarmVille2CountryEscape:gf"
+    },
+    {
+      "appId": "io.supercent.pizzaidle",
+      "country": "gf",
+      "key": "io.supercent.pizzaidle:gf"
+    },
+    {
+      "appId": "com.ndemiccreations.rebelinc",
+      "country": "gf",
+      "key": "com.ndemiccreations.rebelinc:gf"
+    },
+    {
+      "appId": "com.movile.playkids.pkxd",
+      "country": "gf",
+      "key": "com.movile.playkids.pkxd:gf"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftDOHM",
+      "country": "gf",
+      "key": "com.gameloft.android.ANMP.GloftDOHM:gf"
+    },
+    {
+      "appId": "com.tapblaze.coffeebusiness",
+      "country": "gf",
+      "key": "com.tapblaze.coffeebusiness:gf"
+    },
+    {
+      "appId": "com.tapblaze.pizzabusiness",
+      "country": "gf",
+      "key": "com.tapblaze.pizzabusiness:gf"
+    },
+    {
+      "appId": "com.paradyme.solarsmash",
+      "country": "gf",
+      "key": "com.paradyme.solarsmash:gf"
+    },
+    {
+      "appId": "com.shimmergames.tenants.gp",
+      "country": "gf",
+      "key": "com.shimmergames.tenants.gp:gf"
+    },
+    {
+      "appId": "com.twh011.market.simulator.manager",
+      "country": "gf",
+      "key": "com.twh011.market.simulator.manager:gf"
+    },
+    {
+      "appId": "com.geargames.aow",
+      "country": "gg",
+      "key": "com.geargames.aow:gg"
+    },
+    {
+      "appId": "com.napoleon.strategy.war.games",
+      "country": "gg",
+      "key": "com.napoleon.strategy.war.games:gg"
+    },
+    {
+      "appId": "com.mobilechess.gp",
+      "country": "gg",
+      "key": "com.mobilechess.gp:gg"
+    },
+    {
+      "appId": "air.com.midjiwan.polytopia",
+      "country": "gg",
+      "key": "air.com.midjiwan.polytopia:gg"
+    },
+    {
+      "appId": "com.world.war.defence",
+      "country": "gg",
+      "key": "com.world.war.defence:gg"
+    },
+    {
+      "appId": "com.rome.caesar.war.strategy.conqueror.games",
+      "country": "gg",
+      "key": "com.rome.caesar.war.strategy.conqueror.games:gg"
+    },
+    {
+      "appId": "com.demiseofnations.app.user.rom",
+      "country": "gg",
+      "key": "com.demiseofnations.app.user.rom:gg"
+    },
+    {
+      "appId": "com.supercell.clashroyale",
+      "country": "gg",
+      "key": "com.supercell.clashroyale:gg"
+    },
+    {
+      "appId": "com.bytro.supremacy1914",
+      "country": "gg",
+      "key": "com.bytro.supremacy1914:gg"
+    },
+    {
+      "appId": "com.geargames.warlegends.rts.strategy.game",
+      "country": "gg",
+      "key": "com.geargames.warlegends.rts.strategy.game:gg"
+    },
+    {
+      "appId": "com.mobile.legends",
+      "country": "gg",
+      "key": "com.mobile.legends:gg"
+    },
+    {
+      "appId": "com.riotgames.league.teamfighttactics",
+      "country": "gg",
+      "key": "com.riotgames.league.teamfighttactics:gg"
+    },
+    {
+      "appId": "com.lilithgame.roc.gp",
+      "country": "gg",
+      "key": "com.lilithgame.roc.gp:gg"
+    },
+    {
+      "appId": "com.totalbattle",
+      "country": "gg",
+      "key": "com.totalbattle:gg"
+    },
+    {
+      "appId": "com.run.tower.defense",
+      "country": "gg",
+      "key": "com.run.tower.defense:gg"
+    },
+    {
+      "appId": "com.topwar.gp",
+      "country": "gg",
+      "key": "com.topwar.gp:gg"
+    },
+    {
+      "appId": "com.supercell.boombeach",
+      "country": "gg",
+      "key": "com.supercell.boombeach:gg"
+    },
+    {
+      "appId": "com.worldwar2.strategygames.ww2.sd",
+      "country": "gg",
+      "key": "com.worldwar2.strategygames.ww2.sd:gg"
+    },
+    {
+      "appId": "com.fun.lastwar.gp",
+      "country": "gg",
+      "key": "com.fun.lastwar.gp:gg"
+    },
+    {
+      "appId": "games.vaveda.militaryoverturn",
+      "country": "gg",
+      "key": "games.vaveda.militaryoverturn:gg"
+    },
+    {
+      "appId": "com.worldwar2.ww2.strategy.games",
+      "country": "gg",
+      "key": "com.worldwar2.ww2.strategy.games:gg"
+    },
+    {
+      "appId": "com.proximabeta.aoemobile",
+      "country": "gg",
+      "key": "com.proximabeta.aoemobile:gg"
+    },
+    {
+      "appId": "com.farlightgames.samo.gp",
+      "country": "gg",
+      "key": "com.farlightgames.samo.gp:gg"
+    },
+    {
+      "appId": "com.td.watcherofrealms",
+      "country": "gg",
+      "key": "com.td.watcherofrealms:gg"
+    },
+    {
+      "appId": "com.nexters.herowars",
+      "country": "gg",
+      "key": "com.nexters.herowars:gg"
+    },
+    {
+      "appId": "com.gof.global",
+      "country": "gg",
+      "key": "com.gof.global:gg"
+    },
+    {
+      "appId": "com.supercell.brawlstars",
+      "country": "gg",
+      "key": "com.supercell.brawlstars:gg"
+    },
+    {
+      "appId": "com.s01.global",
+      "country": "gg",
+      "key": "com.s01.global:gg"
+    },
+    {
+      "appId": "com.epicgames.fortnite",
+      "country": "gh",
+      "key": "com.epicgames.fortnite:gh"
+    },
+    {
+      "appId": "com.mobile.legends",
+      "country": "gh",
+      "key": "com.mobile.legends:gh"
+    },
+    {
+      "appId": "com.axlebolt.standoff2",
+      "country": "gh",
+      "key": "com.axlebolt.standoff2:gh"
+    },
+    {
+      "appId": "com.nekki.shadowfightarena",
+      "country": "gh",
+      "key": "com.nekki.shadowfightarena:gh"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftM5HM",
+      "country": "gh",
+      "key": "com.gameloft.android.ANMP.GloftM5HM:gh"
+    },
+    {
+      "appId": "com.generagames.resistance",
+      "country": "gh",
+      "key": "com.generagames.resistance:gh"
+    },
+    {
+      "appId": "com.activision.callofduty.shooter",
+      "country": "gh",
+      "key": "com.activision.callofduty.shooter:gh"
+    },
+    {
+      "appId": "com.nekki.shadowfight3",
+      "country": "gh",
+      "key": "com.nekki.shadowfight3:gh"
+    },
+    {
+      "appId": "com.tencent.ig",
+      "country": "gh",
+      "key": "com.tencent.ig:gh"
+    },
+    {
+      "appId": "com.gamedevltd.modernstrike",
+      "country": "gh",
+      "key": "com.gamedevltd.modernstrike:gh"
+    },
+    {
+      "appId": "net.wargaming.wot.blitz",
+      "country": "gh",
+      "key": "net.wargaming.wot.blitz:gh"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftFWHM",
+      "country": "gh",
+      "key": "com.gameloft.android.ANMP.GloftFWHM:gh"
+    },
+    {
+      "appId": "com.mgs.sniper1",
+      "country": "gh",
+      "key": "com.mgs.sniper1:gh"
+    },
+    {
+      "appId": "com.dts.freefiremax",
+      "country": "gh",
+      "key": "com.dts.freefiremax:gh"
+    },
+    {
+      "appId": "com.AlfaBravo.CombatMaster",
+      "country": "gh",
+      "key": "com.AlfaBravo.CombatMaster:gh"
+    },
+    {
+      "appId": "com.imangi.templerun2",
+      "country": "gh",
+      "key": "com.imangi.templerun2:gh"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftOLHM",
+      "country": "gh",
+      "key": "com.gameloft.android.ANMP.GloftOLHM:gh"
+    },
+    {
+      "appId": "com.starplay.spider.fighter.openworld",
+      "country": "gh",
+      "key": "com.starplay.spider.fighter.openworld:gh"
+    },
+    {
+      "appId": "com.supercell.clashofclans",
+      "country": "gh",
+      "key": "com.supercell.clashofclans:gh"
+    },
+    {
+      "appId": "com.gamedevltd.wwh",
+      "country": "gh",
+      "key": "com.gamedevltd.wwh:gh"
+    },
+    {
+      "appId": "com.supercell.brawlstars",
+      "country": "gh",
+      "key": "com.supercell.brawlstars:gh"
+    },
+    {
+      "appId": "com.madfingergames.deadtrigger2",
+      "country": "gh",
+      "key": "com.madfingergames.deadtrigger2:gh"
+    },
+    {
+      "appId": "com.kitkagames.fallbuddies",
+      "country": "gh",
+      "key": "com.kitkagames.fallbuddies:gh"
+    },
+    {
+      "appId": "com.wb.goog.mkx",
+      "country": "gh",
+      "key": "com.wb.goog.mkx:gh"
+    },
+    {
+      "appId": "com.edkongames.mobs",
+      "country": "gh",
+      "key": "com.edkongames.mobs:gh"
+    },
+    {
+      "appId": "com.fungames.sniper3d",
+      "country": "gh",
+      "key": "com.fungames.sniper3d:gh"
+    },
+    {
+      "appId": "com.edkongames.ww2",
+      "country": "gh",
+      "key": "com.edkongames.ww2:gh"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftA8HM",
+      "country": "gi",
+      "key": "com.gameloft.android.ANMP.GloftA8HM:gi"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftA9HM",
+      "country": "gi",
+      "key": "com.gameloft.android.ANMP.GloftA9HM:gi"
+    },
+    {
+      "appId": "com.fingersoft.hcr2",
+      "country": "gi",
+      "key": "com.fingersoft.hcr2:gi"
+    },
+    {
+      "appId": "com.easygames.race",
+      "country": "gi",
+      "key": "com.easygames.race:gi"
+    },
+    {
+      "appId": "com.fingersoft.hillclimb",
+      "country": "gi",
+      "key": "com.fingersoft.hillclimb:gi"
+    },
+    {
+      "appId": "com.skgames.trafficrider",
+      "country": "gi",
+      "key": "com.skgames.trafficrider:gi"
+    },
+    {
+      "appId": "com.gameloft.anmp.disney.speedstorm",
+      "country": "gi",
+      "key": "com.gameloft.anmp.disney.speedstorm:gi"
+    },
+    {
+      "appId": "com.CarXTech.highWay",
+      "country": "gi",
+      "key": "com.CarXTech.highWay:gi"
+    },
+    {
+      "appId": "com.skgames.trafficracer",
+      "country": "gi",
+      "key": "com.skgames.trafficracer:gi"
+    },
+    {
+      "appId": "com.vectorunit.cobalt.googleplay",
+      "country": "gi",
+      "key": "com.vectorunit.cobalt.googleplay:gi"
+    },
+    {
+      "appId": "com.budgestudios.googleplay.HotWheelsUnlimited",
+      "country": "gi",
+      "key": "com.budgestudios.googleplay.HotWheelsUnlimited:gi"
+    },
+    {
+      "appId": "com.hutchgames.formularacing",
+      "country": "gi",
+      "key": "com.hutchgames.formularacing:gi"
+    },
+    {
+      "appId": "com.carxtech.carxdr2",
+      "country": "gi",
+      "key": "com.carxtech.carxdr2:gi"
+    },
+    {
+      "appId": "com.topfreegames.bikeracefreeworld",
+      "country": "gi",
+      "key": "com.topfreegames.bikeracefreeworld:gi"
+    },
+    {
+      "appId": "com.dirtybit.fire",
+      "country": "gi",
+      "key": "com.dirtybit.fire:gi"
+    },
+    {
+      "appId": "com.budgestudios.googleplay.BudgeRacing",
+      "country": "gi",
+      "key": "com.budgestudios.googleplay.BudgeRacing:gi"
+    },
+    {
+      "appId": "com.vectorunit.purple.googleplay",
+      "country": "gi",
+      "key": "com.vectorunit.purple.googleplay:gi"
+    },
+    {
+      "appId": "com.pixeldev.APEXRacers",
+      "country": "gi",
+      "key": "com.pixeldev.APEXRacers:gi"
+    },
+    {
+      "appId": "com.tiramisu.driftmax2",
+      "country": "gi",
+      "key": "com.tiramisu.driftmax2:gi"
+    },
+    {
+      "appId": "com.playsportgames.mmm2023",
+      "country": "gi",
+      "key": "com.playsportgames.mmm2023:gi"
+    },
+    {
+      "appId": "com.dodreams.driveahead",
+      "country": "gi",
+      "key": "com.dodreams.driveahead:gi"
+    },
+    {
+      "appId": "com.pocketchamps.game",
+      "country": "gi",
+      "key": "com.pocketchamps.game:gi"
+    },
+    {
+      "appId": "com.rockhead.starlit.kartracing",
+      "country": "gi",
+      "key": "com.rockhead.starlit.kartracing:gi"
+    },
+    {
+      "appId": "com.StudioFurukawa.PixelCarRacer",
+      "country": "gi",
+      "key": "com.StudioFurukawa.PixelCarRacer:gi"
+    },
+    {
+      "appId": "com.halfbrick.aeroracer",
+      "country": "gi",
+      "key": "com.halfbrick.aeroracer:gi"
+    },
+    {
+      "appId": "com.ketchapp.rider",
+      "country": "gi",
+      "key": "com.ketchapp.rider:gi"
+    },
+    {
+      "appId": "game.revani.racemaxpro",
+      "country": "gi",
+      "key": "game.revani.racemaxpro:gi"
+    },
+    {
+      "appId": "com.hutchgames.rebelracing",
+      "country": "gi",
+      "key": "com.hutchgames.rebelracing:gi"
+    },
+    {
+      "appId": "com.magisterapp.carsforkids",
+      "country": "gi",
+      "key": "com.magisterapp.carsforkids:gi"
+    },
+    {
+      "appId": "puzzle.merge.adventure",
+      "country": "gl",
+      "key": "puzzle.merge.adventure:gl"
+    },
+    {
+      "appId": "com.theguligames.landsofadventure",
+      "country": "gl",
+      "key": "com.theguligames.landsofadventure:gl"
+    },
+    {
+      "appId": "com.tinyco.potter",
+      "country": "gl",
+      "key": "com.tinyco.potter:gl"
+    },
+    {
+      "appId": "com.battleon.aq3d",
+      "country": "gl",
+      "key": "com.battleon.aq3d:gl"
+    },
+    {
+      "appId": "com.slsm.an.en",
+      "country": "gl",
+      "key": "com.slsm.an.en:gl"
+    },
+    {
+      "appId": "com.volcanoforce.lost.global",
+      "country": "gl",
+      "key": "com.volcanoforce.lost.global:gl"
+    },
+    {
+      "appId": "com.heliogames.westland",
+      "country": "gl",
+      "key": "com.heliogames.westland:gl"
+    },
+    {
+      "appId": "com.plarium.blast",
+      "country": "gl",
+      "key": "com.plarium.blast:gl"
+    },
+    {
+      "appId": "com.haiku.adventure.escape.game.mystery.stories",
+      "country": "gl",
+      "key": "com.haiku.adventure.escape.game.mystery.stories:gl"
+    },
+    {
+      "appId": "com.kurogame.wutheringwaves.global",
+      "country": "gl",
+      "key": "com.kurogame.wutheringwaves.global:gl"
+    },
+    {
+      "appId": "com.gameloft.android.ANMP.GloftGGHM",
+      "country": "gl",
+      "key": "com.gameloft.android.ANMP.GloftGGHM:gl"
+    },
+    {
+      "appId": "com.playrix.manormatters",
+      "country": "gl",
+      "key": "com.playrix.manormatters:gl"
+    },
+    {
+      "appId": "com.cateia.molfn.android.free",
+      "country": "gl",
+      "key": "com.cateia.molfn.android.free:gl"
+    },
+    {
+      "appId": "com.blizzard.diablo.immortal",
+      "country": "gl",
+      "key": "com.blizzard.diablo.immortal:gl"
+    },
+    {
+      "appId": "com.imangi.templerun",
+      "country": "gl",
+      "key": "com.imangi.templerun:gl"
+    },
+    {
+      "appId": "com.dreamgames.royalkingdom",
+      "country": "gl",
+      "key": "com.dreamgames.royalkingdom:gl"
+    },
+    {
+      "appId": "com.g5e.homicidesquadpg.android",
+      "country": "gl",
+      "key": "com.g5e.homicidesquadpg.android:gl"
+    },
+    {
+      "appId": "com.dreamgames.royalmatch",
+      "country": "gl",
+      "key": "com.dreamgames.royalmatch:gl"
+    },
+    {
+      "appId": "com.ffsvideogames.aab.eor4f2p",
+      "country": "gl",
+      "key": "com.ffsvideogames.aab.eor4f2p:gl"
+    },
+    {
+      "appId": "com.tgc.sky.android",
+      "country": "gl",
+      "key": "com.tgc.sky.android:gl"
+    },
+    {
+      "appId": "com.imangi.templerun2",
+      "country": "gm",
+      "key": "com.imangi.templerun2:gm"
+    },
+    {
+      "appId": "com.os.space.force.galaxy.alien",
+      "country": "gm",
+      "key": "com.os.space.force.galaxy.alien:gm"
+    },
+    {
+      "appId": "com.imangi.templerun",
+      "country": "gm",
+      "key": "com.imangi.templerun:gm"
+    },
+    {
+      "appId": "com.biglime.cookingmadness",
+      "country": "gm",
+      "key": "com.biglime.cookingmadness:gm"
+    },
+    {
+      "appId": "com.halfbrick.fruitninjafree",
+      "country": "gm",
+      "key": "com.halfbrick.fruitninjafree:gm"
+    },
+    {
+      "appId": "com.sjkim.retroxel2",
+      "country": "gm",
+      "key": "com.sjkim.retroxel2:gm"
+    },
+    {
+      "appId": "com.generagames.ninjadash.samuraironin.jumprpg",
+      "country": "gm",
+      "key": "com.generagames.ninjadash.samuraironin.jumprpg:gm"
+    },
+    {
+      "appId": "com.generamobile.ramboat",
+      "country": "gm",
+      "key": "com.generamobile.ramboat:gm"
+    },
+    {
+      "appId": "com.robtopx.geometryjumplite",
+      "country": "gm",
+      "key": "com.robtopx.geometryjumplite:gm"
+    },
+    {
+      "appId": "com.kiloo.subwaysurf",
+      "country": "gm",
+      "key": "com.kiloo.subwaysurf:gm"
+    },
+    {
+      "appId": "com.amanotes.beathopper",
+      "country": "gm",
+      "key": "com.amanotes.beathopper:gm"
+    },
+    {
+      "appId": "com.rioo.runnersubway",
+      "country": "gm",
+      "key": "com.rioo.runnersubway:gm"
+    },
+    {
+      "appId": "com.cct.endlessrun.jungleescape",
+      "country": "gm",
+      "key": "com.cct.endlessrun.jungleescape:gm"
+    },
+    {
+      "appId": "com.youmusic.magictiles",
+      "country": "gm",
+      "key": "com.youmusic.magictiles:gm"
+    },
+    {
+      "appId": "com.os.airforce",
+      "country": "gm",
+      "key": "com.os.airforce:gm"
+    },
+    {
+      "appId": "com.game.space.shooter2",
+      "country": "gm",
+      "key": "com.game.space.shooter2:gm"
+    },
+    {
+      "appId": "com.outfit7.talkingtomgoldrun",
+      "country": "gm",
+      "key": "com.outfit7.talkingtomgoldrun:gm"
+    },
+    {
+      "appId": "net.bat.store",
+      "country": "gm",
+      "key": "net.bat.store:gm"
+    },
+    {
+      "appId": "com.FDGEntertainment.redball4.gp",
+      "country": "gm",
+      "key": "com.FDGEntertainment.redball4.gp:gm"
+    },
+    {
+      "appId": "com.alien.shooter.galaxy.attack",
+      "country": "gm",
+      "key": "com.alien.shooter.galaxy.attack:gm"
+    },
+    {
+      "appId": "com.ludo.king",
+      "country": "gm",
+      "key": "com.ludo.king:gm"
+    },
+    {
+      "appId": "com.vincentb.MobControl",
+      "country": "gm",
+      "key": "com.vincentb.MobControl:gm"
+    },
+    {
+      "appId": "com.nekki.shadowfightarena",
+      "country": "gm",
+      "key": "com.nekki.shadowfightarena:gm"
+    },
+    {
+      "appId": "com.creations.runnergame",
+      "country": "gm",
+      "key": "com.creations.runnergame:gm"
+    },
+    {
+      "appId": "io.voodoo.paper2",
+      "country": "gm",
+      "key": "io.voodoo.paper2:gm"
+    },
+    {
+      "appId": "games.vaveda.militaryoverturn",
+      "country": "gm",
+      "key": "games.vaveda.militaryoverturn:gm"
+    },
+    {
+      "appId": "com.skgames.trafficracer",
+      "country": "gm",
+      "key": "com.skgames.trafficracer:gm"
+    },
+    {
+      "appId": "com.userjoy.fsm",
+      "country": "gd",
+      "key": "com.userjoy.fsm:gd"
+    },
+    {
+      "appId": "com.chuanglian.sgfml",
+      "country": "gd",
+      "key": "com.chuanglian.sgfml:gd"
+    },
+    {
+      "appId": "ximi.and.sg2.w.gp",
+      "country": "gd",
+      "key": "ximi.and.sg2.w.gp:gd"
+    },
+    {
+      "appId": "com.zhsg.gp.tw",
+      "country": "gd",
+      "key": "com.zhsg.gp.tw:gd"
+    },
+    {
+      "appId": "com.lufylegend.sgj",
+      "country": "gd",
+      "key": "com.lufylegend.sgj:gd"
+    },
+    {
+      "appId": "jewel.sort.coloring.number.free.puzzle",
+      "country": "gd",
+      "key": "jewel.sort.coloring.number.free.puzzle:gd"
+    },
+    {
+      "appId": "com.geda.jewelsort",
+      "country": "gd",
+      "key": "com.geda.jewelsort:gd"
+    },
+    {
+      "appId": "com.cdt.jewel.pixel.sort",
+      "country": "gd",
+      "key": "com.cdt.jewel.pixel.sort:gd"
+    },
+    {
+      "appId": "com.jewel.color.sort",
+      "country": "gd",
+      "key": "com.jewel.color.sort:gd"
+    },
+    {
+      "appId": "gridplus.color.pixel.art.diamond.sort",
+      "country": "gd",
+      "key": "gridplus.color.pixel.art.diamond.sort:gd"
+    },
+    {
+      "appId": "com.TGZS.PIG",
+      "country": "gd",
+      "key": "com.TGZS.PIG:gd"
+    },
+    {
+      "appId": "com.olleyo.piggy.king.free",
+      "country": "gd",
+      "key": "com.olleyo.piggy.king.free:gd"
+    },
+    {
+      "appId": "com.playrix.homescapes",
+      "country": "gd",
+      "key": "com.playrix.homescapes:gd"
+    },
+    {
+      "appId": "com.storytoys.lego.duplo.peppa.pig.googleplay",
+      "country": "gd",
+      "key": "com.storytoys.lego.duplo.peppa.pig.googleplay:gd"
+    },
+    {
+      "appId": "com.roblox.client",
+      "country": "gd",
+      "key": "com.roblox.client:gd"
+    },
+    {
+      "appId": "com.eyougame.xjhx.en",
+      "country": "gd",
+      "key": "com.eyougame.xjhx.en:gd"
+    },
+    {
+      "appId": "com.SinkHoleStudio.OguForest",
+      "country": "gd",
+      "key": "com.SinkHoleStudio.OguForest:gd"
+    },
+    {
+      "appId": "com.tinyco.potter",
+      "country": "gd",
+      "key": "com.tinyco.potter:gd"
+    },
+    {
+      "appId": "com.vizorapps.atlantis",
+      "country": "gd",
+      "key": "com.vizorapps.atlantis:gd"
+    },
+    {
+      "appId": "com.gpl.rpg.AndorsTrail",
+      "country": "gd",
+      "key": "com.gpl.rpg.AndorsTrail:gd"
+    },
+    {
+      "appId": "jp.remuseum.app",
+      "country": "gd",
+      "key": "jp.remuseum.app:gd"
+    },
+    {
+      "appId": "com.museum.tycoon.simulator",
+      "country": "gd",
+      "key": "com.museum.tycoon.simulator:gd"
+    },
+    {
+      "appId": "com.tonwelt.mre",
+      "country": "gd",
+      "key": "com.tonwelt.mre:gd"
+    },
+    {
+      "appId": "com.pixodust.games.idle.museum.tycoon.empire.art.history",
+      "country": "gd",
+      "key": "com.pixodust.games.idle.museum.tycoon.empire.art.history:gd"
+    },
+    {
+      "appId": "com.airar.trickeye",
+      "country": "gd",
+      "key": "com.airar.trickeye:gd"
+    },
+    {
+      "appId": "com.NAW.SpeedBoadAdv2",
+      "country": "gd",
+      "key": "com.NAW.SpeedBoadAdv2:gd"
+    },
+    {
+      "appId": "com.amayasoft.toddler.kids.games.boys.girls.boat",
+      "country": "gd",
+      "key": "com.amayasoft.toddler.kids.games.boys.girls.boat:gd"
+    },
+    {
+      "appId": "com.bamboo.ship.ggplay",
+      "country": "gd",
+      "key": "com.bamboo.ship.ggplay:gd"
+    },
+    {
+      "appId": "com.big.my.cruise.ship",
+      "country": "gd",
+      "key": "com.big.my.cruise.ship:gd"
+    },
+    {
+      "appId": "com.bonedstudios.android.shootyseas",
+      "country": "gd",
+      "key": "com.bonedstudios.android.shootyseas:gd"
+    },
+    {
+      "appId": "com.messtgames.minodeep",
+      "country": "gd",
+      "key": "com.messtgames.minodeep:gd"
+    },
+    {
+      "appId": "air.com.pixelfederation.diggy",
+      "country": "gd",
+      "key": "air.com.pixelfederation.diggy:gd"
+    },
+    {
+      "appId": "com.waronsite.cave.adv",
+      "country": "gd",
+      "key": "com.waronsite.cave.adv:gd"
+    },
+    {
+      "appId": "com.groundspeak.react.adventures",
+      "country": "gd",
+      "key": "com.groundspeak.react.adventures:gd"
+    },
+    {
+      "appId": "com.cateia.catales.android",
+      "country": "gd",
+      "key": "com.cateia.catales.android:gd"
+    },
+    {
+      "appId": "com.facebook.katana",
+      "country": "gd",
+      "key": "com.facebook.katana:gd"
+    },
+    {
+      "appId": "com.google.android.apps.nbu.files",
+      "country": "gd",
+      "key": "com.google.android.apps.nbu.files:gd"
+    },
+    {
+      "appId": "com.instagram.android",
+      "country": "gd",
+      "key": "com.instagram.android:gd"
+    },
+    {
+      "appId": "com.google.android.apps.maps",
+      "country": "gd",
+      "key": "com.google.android.apps.maps:gd"
+    },
+    {
+      "appId": "com.timeflieswatchfaces.showcase",
+      "country": "gd",
+      "key": "com.timeflieswatchfaces.showcase:gd"
+    },
+    {
+      "appId": "com.ig.weapon.backpack",
+      "country": "gd",
+      "key": "com.ig.weapon.backpack:gd"
+    },
+    {
+      "appId": "com.eipgames.survivorgo",
+      "country": "gd",
+      "key": "com.eipgames.survivorgo:gd"
+    },
+    {
+      "appId": "com.mobgame.loadout.warrior",
+      "country": "gd",
+      "key": "com.mobgame.loadout.warrior:gd"
+    },
+    {
+      "appId": "com.davestudio.pompo",
+      "country": "gd",
+      "key": "com.davestudio.pompo:gd"
+    },
+    {
+      "appId": "com.gu.backpack.merge.battle",
+      "country": "gd",
+      "key": "com.gu.backpack.merge.battle:gd"
+    },
+    {
+      "appId": "app.pixitown.pixitown",
+      "country": "gd",
+      "key": "app.pixitown.pixitown:gd"
+    },
+    {
+      "appId": "com.domobile.pixelfunv2",
+      "country": "gd",
+      "key": "com.domobile.pixelfunv2:gd"
+    },
+    {
+      "appId": "com.picture.puzzle.game.jigsaw.puzzle.building.pixel.builder",
+      "country": "gd",
+      "key": "com.picture.puzzle.game.jigsaw.puzzle.building.pixel.builder:gd"
+    },
+    {
+      "appId": "com.domobile.pixelworld",
+      "country": "gd",
+      "key": "com.domobile.pixelworld:gd"
+    },
+    {
+      "appId": "com.toiletmultiverse.shooter.fps",
+      "country": "gd",
+      "key": "com.toiletmultiverse.shooter.fps:gd"
+    },
+    {
+      "appId": "com.nightfox.nightfox",
+      "country": "gd",
+      "key": "com.nightfox.nightfox:gd"
+    },
+    {
+      "appId": "com.TeamSparta.BunkerDefenseMVP",
+      "country": "gd",
+      "key": "com.TeamSparta.BunkerDefenseMVP:gd"
+    },
+    {
+      "appId": "com.foursakenmedia.bugheroestd",
+      "country": "gd",
+      "key": "com.foursakenmedia.bugheroestd:gd"
+    },
+    {
+      "appId": "com.superbox.aos.magicSquad",
+      "country": "gd",
+      "key": "com.superbox.aos.magicSquad:gd"
+    },
+    {
+      "appId": "com.magicwach.rdefense_free",
+      "country": "gd",
+      "key": "com.magicwach.rdefense_free:gd"
+    },
+    {
+      "appId": "com.unext.lumen",
+      "country": "gd",
+      "key": "com.unext.lumen:gd"
+    },
+    {
+      "appId": "com.galaxy.lamps",
+      "country": "gd",
+      "key": "com.galaxy.lamps:gd"
+    },
+    {
+      "appId": "com.spwatch.lumen3",
+      "country": "gd",
+      "key": "com.spwatch.lumen3:gd"
+    },
+    {
+      "appId": "com.tvr.lumen_launcher",
+      "country": "gd",
+      "key": "com.tvr.lumen_launcher:gd"
+    },
+    {
+      "appId": "com.spwatch.lumen",
+      "country": "gd",
+      "key": "com.spwatch.lumen:gd"
     }
   ]
 }
